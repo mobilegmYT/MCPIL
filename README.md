@@ -22,11 +22,9 @@
 
 ### :warning: Warning
 
-This branch of the project is currently being rewritten, until some design issues are fixed. Please refer to [issues](https://github.com/MCPI-Devs/MCPIL/issues) for most common bugs. All of them are produced by the lack of a good internal design, and practically broke the Launcher. A new branch is being developed from the ground up, so stay tunned!
+This repo has been archived as it's rewrite: [MCPIL-R](https://github.com/MCPI-Revival/MCPIL) has been released! It was because there were a lot of bugs in MCPIL, which were all produced by the lack of a good internal design, and practically broke the Launcher. It's highly suggested to use MCPIL-R instead of this.
 
-If you want stability, please consider using MCPI-Docker directly, or an old version of this Launcher ([v0.6.2](https://github.com/MCPI-Devs/MCPIL/releases/tag/v0.6.2) would be a good choice).
-
-This does **not** mean that the project will not be maintained anymore, so feel free to send reports, code, or other contributions.
+If you still want to give it a try, use an old version of this launcher like [v0.6.2](https://github.com/MCPI-Devs/MCPIL/releases/tag/v0.6.2).
 
 ## Getting started
 ### Prerequisites
